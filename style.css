@@ -125,6 +125,10 @@
     line-height: 60px;
 }
 
+.mobile-hamburger {
+    cursor: pointer;
+}
+
 
 .main-container h1 span {
     color: var(--primary-color);
@@ -169,6 +173,7 @@
 .mobile-navigation-container .close-button-svg {
     width     : 40px;
     margin-top: 35px;
+    cursor    : pointer;
 }
 
 .mobile-navigation-container .horizontal-rule {
